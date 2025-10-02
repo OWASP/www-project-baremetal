@@ -1,0 +1,19 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Sanjay Devnani
+    email: sanjay.devnani@owasp.org
+level: 2
+name: OWASP BareMetal
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-baremetal
+    url: https://github.com/OWASP/www-project-baremetal
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-baremetal
